@@ -7,6 +7,7 @@ npm install
 
 ## Lunch fake server
 ```
+<!-- https://github.com/typicode/json-server -->
 json-server --watch .\db.json 
 ```
 
