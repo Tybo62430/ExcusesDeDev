@@ -1,0 +1,478 @@
+{
+  "excuses": [
+    {
+      "id": 1,
+      "http_code": 701,
+      "tag": "Inexcusable",
+      "message": " Meh"
+    },
+    {
+      "id": 2,
+      "http_code": 702,
+      "tag": "Inexcusable",
+      "message": " Emacs"
+    },
+    {
+      "id": 3,
+      "http_code": 703,
+      "tag": "Inexcusable",
+      "message": " Explosion"
+    },
+    {
+      "id": 4,
+      "http_code": 704,
+      "tag": "Inexcusable",
+      "message": " Goto Fail"
+    },
+    {
+      "id": 5,
+      "http_code": 705,
+      "tag": "Inexcusable",
+      "message": " I wrote the code and missed the necessary validation by an oversight (see 795)"
+    },
+    {
+      "id": 6,
+      "http_code": 706,
+      "tag": "Inexcusable",
+      "message": " Delete Your Account"
+    },
+    {
+      "id": 7,
+      "http_code": 707,
+      "tag": "Inexcusable",
+      "message": " Can't quit vi"
+    },
+    {
+      "id": 8,
+      "http_code": 710,
+      "tag": "Novelty Implementations",
+      "message": " PHP"
+    },
+    {
+      "id": 9,
+      "http_code": 711,
+      "tag": "Novelty Implementations",
+      "message": " Convenience Store"
+    },
+    {
+      "id": 10,
+      "http_code": 712,
+      "tag": "Novelty Implementations",
+      "message": " NoSQL"
+    },
+    {
+      "id": 11,
+      "http_code": 718,
+      "tag": "Novelty Implementations",
+      "message": " I am not a teapot"
+    },
+    {
+      "id": 12,
+      "http_code": 719,
+      "tag": "Novelty Implementations",
+      "message": " Haskell"
+    },
+    {
+      "id": 13,
+      "http_code": 720,
+      "tag": "Edge Cases",
+      "message": " Unpossible"
+    },
+    {
+      "id": 14,
+      "http_code": 721,
+      "tag": "Edge Cases",
+      "message": " Known Unknowns"
+    },
+    {
+      "id": 15,
+      "http_code": 722,
+      "tag": "Edge Cases",
+      "message": " Unknown Unknowns"
+    },
+    {
+      "id": 16,
+      "http_code": 723,
+      "tag": "Edge Cases",
+      "message": " Tricky"
+    },
+    {
+      "id": 17,
+      "http_code": 724,
+      "tag": "Edge Cases",
+      "message": " This line should be unreachable"
+    },
+    {
+      "id": 18,
+      "http_code": 725,
+      "tag": "Edge Cases",
+      "message": " It works on my machine"
+    },
+    {
+      "id": 19,
+      "http_code": 726,
+      "tag": "Edge Cases",
+      "message": " It's a feature, not a bug"
+    },
+    {
+      "id": 20,
+      "http_code": 727,
+      "tag": "Edge Cases",
+      "message": " 32 bits is plenty"
+    },
+    {
+      "id": 21,
+      "http_code": 728,
+      "tag": "Edge Cases",
+      "message": " It works in my timezone"
+    },
+    {
+      "id": 22,
+      "http_code": 730,
+      "tag": "Fucking",
+      "message": " Fucking npm"
+    },
+    {
+      "id": 23,
+      "http_code": 731,
+      "tag": "Fucking",
+      "message": " Fucking Rubygems"
+    },
+    {
+      "id": 24,
+      "http_code": 732,
+      "tag": "Fucking",
+      "message": " Fucking Unic💩de"
+    },
+    {
+      "id": 25,
+      "http_code": 733,
+      "tag": "Fucking",
+      "message": " Fucking Deadlocks"
+    },
+    {
+      "id": 26,
+      "http_code": 734,
+      "tag": "Fucking",
+      "message": " Fucking Deferreds"
+    },
+    {
+      "id": 27,
+      "http_code": 736,
+      "tag": "Fucking",
+      "message": " Fucking Race Conditions"
+    },
+    {
+      "id": 28,
+      "http_code": 735,
+      "tag": "Fucking",
+      "message": " Fucking IE"
+    },
+    {
+      "id": 29,
+      "http_code": 737,
+      "tag": "Fucking",
+      "message": " FuckThreadsing"
+    },
+    {
+      "id": 30,
+      "http_code": 738,
+      "tag": "Fucking",
+      "message": " Fucking Exactly-once Delivery"
+    },
+    {
+      "id": 31,
+      "http_code": 739,
+      "tag": "Fucking",
+      "message": " Fucking Windows"
+    },
+    {
+      "id": 32,
+      "http_code": 738,
+      "tag": "Fucking",
+      "message": " Fucking Exactly"
+    },
+    {
+      "id": 33,
+      "http_code": 739,
+      "tag": "Fucking",
+      "message": " Fucking McAfee"
+    },
+    {
+      "id": 34,
+      "http_code": 750,
+      "tag": "Syntax Errors",
+      "message": " Didn't bother to compile it"
+    },
+    {
+      "id": 35,
+      "http_code": 753,
+      "tag": "Syntax Errors",
+      "message": " Syntax Error"
+    },
+    {
+      "id": 36,
+      "http_code": 754,
+      "tag": "Syntax Errors",
+      "message": " Too many semi-colons"
+    },
+    {
+      "id": 37,
+      "http_code": 755,
+      "tag": "Syntax Errors",
+      "message": " Not enough semi-colons"
+    },
+    {
+      "id": 38,
+      "http_code": 756,
+      "tag": "Syntax Errors",
+      "message": " Insufficiently polite"
+    },
+    {
+      "id": 39,
+      "http_code": 757,
+      "tag": "Syntax Errors",
+      "message": " Excessively polite"
+    },
+    {
+      "id": 40,
+      "http_code": 759,
+      "tag": "Syntax Errors",
+      "message": " Unexpected `T_PAAMAYIM_NEKUDOTAYIM`"
+    },
+    {
+      "id": 41,
+      "http_code": 761,
+      "tag": "Substance",
+      "message": " Hungover"
+    },
+    {
+      "id": 42,
+      "http_code": 762,
+      "tag": "Substance",
+      "message": " Stoned"
+    },
+    {
+      "id": 43,
+      "http_code": 763,
+      "tag": "Substance",
+      "message": " Under-Caffeinated"
+    },
+    {
+      "id": 44,
+      "http_code": 764,
+      "tag": "Substance",
+      "message": " Over-Caffeinated"
+    },
+    {
+      "id": 45,
+      "http_code": 765,
+      "tag": "Substance",
+      "message": " Railscamp"
+    },
+    {
+      "id": 46,
+      "http_code": 766,
+      "tag": "Substance",
+      "message": " Sober"
+    },
+    {
+      "id": 47,
+      "http_code": 767,
+      "tag": "Substance",
+      "message": " Drunk"
+    },
+    {
+      "id": 48,
+      "http_code": 768,
+      "tag": "Substance",
+      "message": " Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week"
+    },
+    {
+      "id": 49,
+      "http_code": 771,
+      "tag": "Predictable Problems",
+      "message": " Cached for too long"
+    },
+    {
+      "id": 50,
+      "http_code": 772,
+      "tag": "Predictable Problems",
+      "message": " Not cached long enough"
+    },
+    {
+      "id": 51,
+      "http_code": 773,
+      "tag": "Predictable Problems",
+      "message": " Not cached at all"
+    },
+    {
+      "id": 52,
+      "http_code": 774,
+      "tag": "Predictable Problems",
+      "message": " Why was this cached?"
+    },
+    {
+      "id": 53,
+      "http_code": 775,
+      "tag": "Predictable Problems",
+      "message": "Out of cash"
+    },
+    {
+      "id": 54,
+      "http_code": 776,
+      "tag": "Predictable Problems",
+      "message": "Error on the Exception"
+    },
+    {
+      "id": 55,
+      "http_code": 777,
+      "tag": "Predictable Problems",
+      "message": " Coincidence"
+    },
+    {
+      "id": 56,
+      "http_code": 778,
+      "tag": "Predictable Problems",
+      "message": " Off By One Error"
+    },
+    {
+      "id": 57,
+      "http_code": 779,
+      "tag": "Predictable Problems",
+      "message": " Off By Too Many To Count Error"
+    },
+    {
+      "id": 58,
+      "http_code": 780,
+      "tag": "Somebody Else's Problem",
+      "message": " Project owner not responding"
+    },
+    {
+      "id": 59,
+      "http_code": 781,
+      "tag": "Somebody Else's Problem",
+      "message": " Operations"
+    },
+    {
+      "id": 60,
+      "http_code": 782,
+      "tag": "Somebody Else's Problem",
+      "message": " QA"
+    },
+    {
+      "id": 61,
+      "http_code": 783,
+      "tag": "Somebody Else's Problem",
+      "message": " It was a customer request, honestly"
+    },
+    {
+      "id": 62,
+      "http_code": 784,
+      "tag": "Somebody Else's Problem",
+      "message": " Management, obviously"
+    },
+    {
+      "id": 63,
+      "http_code": 785,
+      "tag": "Somebody Else's Problem",
+      "message": " TPS Cover Sheet not attached"
+    },
+    {
+      "id": 64,
+      "http_code": 786,
+      "tag": "Somebody Else's Problem",
+      "message": " Try it now"
+    },
+    {
+      "id": 65,
+      "http_code": 787,
+      "tag": "Somebody Else's Problem",
+      "message": " Further Funding Required"
+    },
+    {
+      "id": 66,
+      "http_code": 788,
+      "tag": "Somebody Else's Problem",
+      "message": " Designer's final designs weren't"
+    },
+    {
+      "id": 67,
+      "http_code": 789,
+      "tag": "Somebody Else's Problem",
+      "message": " Not my department"
+    },
+    {
+      "id": 68,
+      "http_code": 791,
+      "tag": "Internet crashed",
+      "message": " The Internet shut down due to copyright restrictions"
+    },
+    {
+      "id": 69,
+      "http_code": 792,
+      "tag": "Internet crashed",
+      "message": " Climate change driven catastrophic weather event"
+    },
+    {
+      "id": 70,
+      "http_code": 793,
+      "tag": "Internet crashed",
+      "message": " Zombie Apocalypse"
+    },
+    {
+      "id": 71,
+      "http_code": 794,
+      "tag": "Internet crashed",
+      "message": " Someone let PG near a REPL"
+    },
+    {
+      "id": 72,
+      "http_code": 795,
+      "tag": "Internet crashed",
+      "message": " #heartbleed (see 705)"
+    },
+    {
+      "id": 73,
+      "http_code": 796,
+      "tag": "Internet crashed",
+      "message": " Some DNS fuckery idno"
+    },
+    {
+      "id": 74,
+      "http_code": 797,
+      "tag": "Internet crashed",
+      "message": " This is the last page of the Internet. Go back"
+    },
+    {
+      "id": 75,
+      "http_code": 798,
+      "tag": "Internet crashed",
+      "message": " I checked the db backups cupboard and the cupboard was bare"
+    },
+    {
+      "id": 76,
+      "http_code": 799,
+      "tag": "Internet crashed",
+      "message": " End of the world"
+    },
+    {
+      "http_code": "test",
+      "tag": "test",
+      "message": "test",
+      "id": 77
+    },
+    {
+      "http_code": "test2",
+      "tag": "test2",
+      "message": "test2",
+      "id": 78
+    },
+    {
+      "http_code": "32",
+      "tag": "32",
+      "message": "44",
+      "id": 79
+    }
+  ]
+}
